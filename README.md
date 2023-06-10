@@ -1,2 +1,2 @@
-# RR-Project2_Recommender_System_Movie
-Building a Movie Recommender model using the content-based recommendation approach that offers a personalized movie recommendation based on the content and characteristics of movies. 
+# RR-Project2_Movie_Recommender_System
+The Movie Recommender system provides a personalized movie recommendation system based on the content and characteristics of movies. It's built using the content-based recommendation approach based on the content and characteristics of movies. 
